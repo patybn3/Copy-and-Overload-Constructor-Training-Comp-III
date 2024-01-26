@@ -1,14 +1,14 @@
 ***********************************************
 Author: Patricia Antlitz
 
-Date: <03/12/2023>
+Date: 03/12/2023
 
 Purpose: practice copy constructor and copy constructor overload.
 
 Sources of Help: <https://www.learncpp.com/cpp-tutorial/overloading-the-assignment-operator/>
-Time Spent: <2hrs>
+Time Spent: 2hrs
 
-***********************************************/
+***********************************************
 
 Computing III -- COMP.2010 Honor Statement
 
