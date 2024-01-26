@@ -1,10 +1,13 @@
 ***********************************************
-Author: <Patricia Antlitz>
+Author: Patricia Antlitz
+
 Date: <03/12/2023>
-Purpose: <Practice copy constructor and copy constructor overload>
+
+Purpose: practice copy constructor and copy constructor overload.
 
 Sources of Help: <https://www.learncpp.com/cpp-tutorial/overloading-the-assignment-operator/>
 Time Spent: <2hrs>
+
 ***********************************************/
 
 Computing III -- COMP.2010 Honor Statement
@@ -17,9 +20,11 @@ University’s Academic Integrity policy. Students are expected to
 strictly avoid academic dishonesty and adhere to the Academic
 Integrity policy as outlined in the course catalog. Violations will
 be dealt with as outlined therein.
+
 All programming assignments in this class are to be done by the
 student alone. No outside help is permitted except the instructor and
 approved tutors.
+
 I certify that the work submitted with this assignment is mine and was
 generated in a manner consistent with this document, the course
 academic policy on the course website on Blackboard, and the UMass
